@@ -1,0 +1,3 @@
+module BELAJAR_GOLANG
+
+go 1.18
